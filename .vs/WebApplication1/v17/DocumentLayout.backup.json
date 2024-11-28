@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC2B845-A50F-417D-9E7C-F4B1D3F67EAD}|WebApplication1\\WebApplication1.csproj|e:\\webapplication1\\webapplication1\\models\\calcmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC2B845-A50F-417D-9E7C-F4B1D3F67EAD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\calcmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC2B845-A50F-417D-9E7C-F4B1D3F67EAD}|WebApplication1\\WebApplication1.csproj|e:\\webapplication1\\webapplication1\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC2B845-A50F-417D-9E7C-F4B1D3F67EAD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC2B845-A50F-417D-9E7C-F4B1D3F67EAD}|WebApplication1\\WebApplication1.csproj|e:\\webapplication1\\webapplication1\\service\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC2B845-A50F-417D-9E7C-F4B1D3F67EAD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\service\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC2B845-A50F-417D-9E7C-F4B1D3F67EAD}|WebApplication1\\WebApplication1.csproj|e:\\webapplication1\\webapplication1\\views\\calc\\accessservicedirectly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEC2B845-A50F-417D-9E7C-F4B1D3F67EAD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\calc\\accessservicedirectly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC2B845-A50F-417D-9E7C-F4B1D3F67EAD}|WebApplication1\\WebApplication1.csproj|e:\\webapplication1\\webapplication1\\views\\calc\\passusingmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEC2B845-A50F-417D-9E7C-F4B1D3F67EAD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\calc\\passusingmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC2B845-A50F-417D-9E7C-F4B1D3F67EAD}|WebApplication1\\WebApplication1.csproj|e:\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC2B845-A50F-417D-9E7C-F4B1D3F67EAD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC2B845-A50F-417D-9E7C-F4B1D3F67EAD}|WebApplication1\\WebApplication1.csproj|e:\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CEC2B845-A50F-417D-9E7C-F4B1D3F67EAD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PassUsingModel.cshtml",
+              "DocumentMoniker": "E:\\WebApplication1\\WebApplication1\\Views\\Calc\\PassUsingModel.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Calc\\PassUsingModel.cshtml",
+              "ToolTip": "E:\\WebApplication1\\WebApplication1\\Views\\Calc\\PassUsingModel.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Calc\\PassUsingModel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T23:24:13.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Services.cs",
+              "DocumentMoniker": "E:\\WebApplication1\\WebApplication1\\Service\\Services.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Service\\Services.cs",
+              "ToolTip": "E:\\WebApplication1\\WebApplication1\\Service\\Services.cs",
+              "RelativeToolTip": "WebApplication1\\Service\\Services.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:17:39.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "E:\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:11:22.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccessServiceDirectly.cshtml",
+              "DocumentMoniker": "E:\\WebApplication1\\WebApplication1\\Views\\Calc\\AccessServiceDirectly.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Calc\\AccessServiceDirectly.cshtml",
+              "ToolTip": "E:\\WebApplication1\\WebApplication1\\Views\\Calc\\AccessServiceDirectly.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Calc\\AccessServiceDirectly.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T16:46:36.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "E:\\WebApplication1\\WebApplication1\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CalculatorController.cs",
+              "ToolTip": "E:\\WebApplication1\\WebApplication1\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:47:02.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "E:\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "E:\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T16:36:02.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalcModel.cs",
+              "DocumentMoniker": "E:\\WebApplication1\\WebApplication1\\Models\\CalcModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\CalcModel.cs",
+              "ToolTip": "E:\\WebApplication1\\WebApplication1\\Models\\CalcModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\CalcModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:59:50.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
